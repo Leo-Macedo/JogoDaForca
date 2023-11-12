@@ -5,9 +5,17 @@ body {
     width: 100vw;
     height: 100vh;
     overflow: hidden;
-    background-color: #ff0000;
-    color: aliceblue;
+    background-image: 
+    linear-gradient(
+      to bottom, 
+      rgba(255, 255, 255, 0.5), 
+      rgba(255, 255, 255, 0.5)
+    ),
+    url(../img/fort.jpg);
+    color: rgb(0, 0, 0);
     font-family: "Arial", sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   
   .jogo-container {
@@ -17,8 +25,10 @@ body {
   }
   
   .forca {
+     left: 50px;
+        top: 100px;
     fill: transparent;
-    stroke: #fff;
+    stroke: #000000;
     stroke-width: 4px;
     stroke-linecap: round;
   }
@@ -74,7 +84,7 @@ body {
   }
   
   .popup {
-    background: #2980b9;
+    background: rgb(117, 0, 111);
     border-radius: 5px;
     box-shadow: 0 15px 10px 3px rgba(0, 0, 0, 0.1);
     padding: 20px;
@@ -83,7 +93,7 @@ body {
   
   .popup button {
     cursor: pointer;
-    background-color: #fff;
+    background-color: #ffffff;
     border: 0;
     margin-top: 20px;
     padding: 12px 20px;

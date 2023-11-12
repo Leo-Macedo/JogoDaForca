@@ -1,4 +1,4 @@
-const tecnologias = ["shild", "material", "armas", "skin", "construcao"];
+const tecnologias = ["shild", "material", "armas", "skin", "construcao", "madeira", "tijolo", "metal", "pump", "scar", "bananao"];
 const palavraSecreta =
   tecnologias[Math.floor(Math.random() * tecnologias.length)];
 const letrasErradas = [];
@@ -54,11 +54,11 @@ function checarJogo() {
   const partesCorpo = document.querySelectorAll(".forca-parte");
 
   if (letrasErradas.length === partesCorpo.length) {
-    mensagem = "Fim de jogo! Você perdeu!";
+    mensagem = "Você perdeu! Tente novamente!";
   }
 
   if (palavraSecreta === container.innerText) {
-    mensagem = "Parabéns! Você ganhou!";
+    mensagem = "Você ganhou! Craque do Fortnite";
   }
 
   if (mensagem) {
