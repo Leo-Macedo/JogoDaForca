@@ -14,11 +14,18 @@ O CSS estiliza a página HTML do jogo. O estilo global é definido para o corpo 
 <img src="img/css.jpg"><br>
 
 # JavaScript 
-aqui
-<img src="img/js.jpg"><br>
+É criado um array chamado tecnologias que contém palavras relacionadas ao Fortnite. Uma palavra secreta é escolhida aleatoriamente do array de tecnologias. Arrays para armazenar letras erradas e corretas são inicializados. Um evento é adicionado para capturar pressionamentos de tecla. O código verifica se a tecla pressionada é uma letra. Se a tecla pressionada for uma letra, ela é verificada para saber se está na palavra secreta. A função atualizarJogo() é chamada para atualizar a exibição.
+<img src="img/js1.jpg"><br><br>
 
+Atualiza o conteúdo HTML para mostrar as letras erradas já tentadas. Atualiza o conteúdo HTML para mostrar as letras corretas adivinhadas na palavra secreta. 
+<img src="img/js2.jpg"><br><br>
+
+Verifica se o jogador ganhou ou perdeu e exibe uma mensagem correspondente, mostrando um popup ao final do jogo. Exibe visualmente as partes da forca correspondentes às letras erradas.
+<img src="img/js3.jpg"><br><br>
+
+Mostra um aviso visual quando uma letra já tentada é repetida. Verifica se o código de tecla corresponde a uma letra no intervalo A-Z. Recarrega a página para reiniciar o jogo quando o botão "Jogar novamente" é clicado no popup.
+<img src="img/js4.jpg"><br>
 # Diagramas
-
 # Diagrama de Classes
 <img src="img/classes.jpg"><br>
 
