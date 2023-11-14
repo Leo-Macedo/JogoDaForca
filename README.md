@@ -33,7 +33,7 @@ Mostra um aviso visual quando uma letra já tentada é repetida. Verifica se o c
 ## Perdendo
 
 
-https://github.com/Leo-Macedo/JogoDaForca/assets/127630556/ca2fab80-1eb9-4141-be5e-013f34e3d2ff
+https://github.com/Leo-Macedo/JogoDaForca/assets/127630556/363b63b7-a8df-493f-82f1-d1fb67ab3c33
 
 
 <br>
@@ -41,7 +41,7 @@ https://github.com/Leo-Macedo/JogoDaForca/assets/127630556/ca2fab80-1eb9-4141-be
 ## Ganhando
 
 
-https://github.com/Leo-Macedo/JogoDaForca/assets/127630556/bd1d3d55-20f0-48ed-b575-a9c606665750
+https://github.com/Leo-Macedo/JogoDaForca/assets/127630556/02c16e55-1a1b-4712-8b57-1708230f7155
 
 
 <br>
